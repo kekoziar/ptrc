@@ -5,18 +5,10 @@
 <link>https://guides.lib.ucr.edu/c.php?g=932732</link>
  <description>This feed provides easy access to USPTO Other events.</description>
 <language>en-us</language>
- <lastBuildDate>Tue, 31 May 2022 09:47:38 PST</lastBuildDate>
+ <lastBuildDate>Thu, 02 Jun 2022 13:09:14 PST</lastBuildDate>
 <webMaster>katherine.koziar@ucr.edu</webMaster>
 
  
-<item> <title>Intellectual property basics and helpful resources</title>
-	<link>https://www.uspto.gov/about-us/events/intellectual-property-basics-and-helpful-resources-4</link>
-	<guid>https://www.uspto.gov/about-us/events/intellectual-property-basics-and-helpful-resources-4</guid>
-	<pubDate>Thu, 02 Jun 2022 12:00:00 EST</pubDate>
-	<description>Unfamiliar with patents, trademarks, copyrights, and trade secrets? Don't miss this opportunity to learn from United States Patent and Trademark Office (USPTO) experts about intellectual property (IP) basics and potential ways to protect your innovation as you transition from idea to product.</description>
-</item>
-
- 
 <item> <title>The Hand of History-The Mind of the Inventor Session 1: Wireless Telecommunications Networks</title>
 	<link>https://www.uspto.gov/learning-and-resources/inventors-and-entrepreneurs/hand-history-mind-inventor-session-1-wireless</link>
 	<guid>https://www.uspto.gov/learning-and-resources/inventors-and-entrepreneurs/hand-history-mind-inventor-session-1-wireless</guid>
@@ -33,10 +25,10 @@
 </item>
 
  
-<item> <title>Commercializing intellectual property, part 1: Licensing technical IP in China</title>
-	<link>https://www.uspto.gov/ip-policy/china-ip/commercializing-intellectual-property-part-1-licensing-technical-ip-china</link>
-	<guid>https://www.uspto.gov/ip-policy/china-ip/commercializing-intellectual-property-part-1-licensing-technical-ip-china</guid>
-	<pubDate>Thu, 09 Jun 2022 13:00:00 EST</pubDate>
+<item> <title>Boston listening session with Director Kathi Vidal</title>
+	<link>https://www.uspto.gov/about-us/events/boston-listening-session-director-kathi-vidal</link>
+	<guid>https://www.uspto.gov/about-us/events/boston-listening-session-director-kathi-vidal</guid>
+	<pubDate>Tue, 07 Jun 2022 11:30:00 EST</pubDate>
 	<description> </description>
 </item>
 
@@ -61,6 +53,14 @@
 	<link>https://www.uspto.gov/about-us/events/what-you-need-sell-your-arts-and-crafts-online-pricing-your-art-products-online</link>
 	<guid>https://www.uspto.gov/about-us/events/what-you-need-sell-your-arts-and-crafts-online-pricing-your-art-products-online</guid>
 	<pubDate>Thu, 09 Jun 2022 15:00:00 EST</pubDate>
+	<description> </description>
+</item>
+
+ 
+<item> <title>Commercializing intellectual property, part 1: Licensing technical IP in China</title>
+	<link>https://www.uspto.gov/ip-policy/china-ip/commercializing-intellectual-property-part-1-licensing-technical-ip-china</link>
+	<guid>https://www.uspto.gov/ip-policy/china-ip/commercializing-intellectual-property-part-1-licensing-technical-ip-china</guid>
+	<pubDate>Thu, 09 Jun 2022 13:00:00 EST</pubDate>
 	<description> </description>
 </item>
 
@@ -94,22 +94,6 @@
 	<guid>https://www.uspto.gov/learning-and-resources/inventors-and-entrepreneurs/hand-history-mind-inventor-session-2-television</guid>
 	<pubDate>Tue, 14 Jun 2022 15:00:00 EST</pubDate>
 	<description>Join us for a month-long journey into the history of innovation by registering for the United States Patent and Trademark Office (USPTO) webinar series, The Hand of History&#8212;The Mind of the Inventor. The series will focus on 20th century inventions, led by a group of historians with great stories to tell about specific inventors, their patents, and the crucial role of invention in economic progress from the 1900s to the 1950s.</description>
-</item>
-
- 
-<item> <title>Learn how to conduct a patent search</title>
-	<link>https://www.uspto.gov/patents/basics/help-patents/learn-how-conduct-patent-search</link>
-	<guid>https://www.uspto.gov/patents/basics/help-patents/learn-how-conduct-patent-search</guid>
-	<pubDate>Wed, 15 Jun 2022 11:00:00 EST</pubDate>
-	<description>Are you interested in learning more about patent searching?</description>
-</item>
-
- 
-<item> <title>Proud Innovation 2022, part one: From ideas to innovations</title>
-	<link>https://www.uspto.gov/about-us/events/proud-innovation-2022-part-one-ideas-innovations</link>
-	<guid>https://www.uspto.gov/about-us/events/proud-innovation-2022-part-one-ideas-innovations</guid>
-	<pubDate>Wed, 15 Jun 2022 15:00:00 EST</pubDate>
-	<description>Do you have an idea you want to bring to life? Join the United States Patent and Trademark Office (USPTO) to get inspired by successful innovators turning concepts into creations. Register for the free, online Proud Innovation 2022 series, part one: From ideas to innovations.</description>
 </item>
 
  
@@ -126,6 +110,22 @@
 	<guid>https://www.uspto.gov/about-us/events/patent-quality-chat-sequence-listings-under-st26-and-new-uspto-rules</guid>
 	<pubDate>Wed, 15 Jun 2022 12:00:00 EST</pubDate>
 	<description>Learn about World Intellectual Property Organization (WIPO) Standard ST.26 and upcoming changes to sequence listings filed in patent applications that contain disclosures of nucleotide and/or amino acid sequences. Standard ST.26, requiring XML formatting, will go into effect worldwide on July 1, 2022, and the United States Patent and Trademark Office (USPTO) is adopting new rules (37 CFR 1.831-1.835 and 1.839) to implement this standard.</description>
+</item>
+
+ 
+<item> <title>Learn how to conduct a patent search</title>
+	<link>https://www.uspto.gov/patents/basics/help-patents/learn-how-conduct-patent-search</link>
+	<guid>https://www.uspto.gov/patents/basics/help-patents/learn-how-conduct-patent-search</guid>
+	<pubDate>Wed, 15 Jun 2022 11:00:00 EST</pubDate>
+	<description>Are you interested in learning more about patent searching?</description>
+</item>
+
+ 
+<item> <title>Proud Innovation 2022, part one: From ideas to innovations</title>
+	<link>https://www.uspto.gov/about-us/events/proud-innovation-2022-part-one-ideas-innovations</link>
+	<guid>https://www.uspto.gov/about-us/events/proud-innovation-2022-part-one-ideas-innovations</guid>
+	<pubDate>Wed, 15 Jun 2022 15:00:00 EST</pubDate>
+	<description>Do you have an idea you want to bring to life? Join the United States Patent and Trademark Office (USPTO) to get inspired by successful innovators turning concepts into creations. Register for the free, online Proud Innovation 2022 series, part one: From ideas to innovations.</description>
 </item>
 
  
