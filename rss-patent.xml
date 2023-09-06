@@ -5,7 +5,7 @@
 <link>https://guides.lib.ucr.edu/c.php?g=932732</link>
  <description>This feed provides easy access to USPTO Patent events.</description>
 <language>en-us</language>
- <lastBuildDate>Mon, 28 Aug 2023 08:37:47 PST</lastBuildDate>
+ <lastBuildDate>Wed, 06 Sep 2023 12:51:18 PST</lastBuildDate>
 <webMaster>katherine.koziar@ucr.edu</webMaster>
 
  
@@ -57,18 +57,18 @@
 </item>
 
  
-<item> <title>One-day patents boot camp</title>
-	<link>https://www.uspto.gov/about-us/events/one-day-patents-boot-camp-7</link>
-	<guid>https://www.uspto.gov/about-us/events/one-day-patents-boot-camp-7</guid>
-	<pubDate>Thu, 19 Oct 2023 12:00:00 EST</pubDate>
-	<description> </description>
-</item>
-
- 
 <item> <title>Learn how to make a smooth transition to Patent Center</title>
 	<link>https://www.uspto.gov/about-us/events/learn-how-make-smooth-transition-patent-center-8</link>
 	<guid>https://www.uspto.gov/about-us/events/learn-how-make-smooth-transition-patent-center-8</guid>
 	<pubDate>Thu, 19 Oct 2023 11:00:00 EST</pubDate>
+	<description> </description>
+</item>
+
+ 
+<item> <title>One-day patents boot camp</title>
+	<link>https://www.uspto.gov/about-us/events/one-day-patents-boot-camp-7</link>
+	<guid>https://www.uspto.gov/about-us/events/one-day-patents-boot-camp-7</guid>
+	<pubDate>Thu, 19 Oct 2023 12:00:00 EST</pubDate>
 	<description> </description>
 </item>
 
