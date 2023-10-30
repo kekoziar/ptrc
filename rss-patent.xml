@@ -5,7 +5,7 @@
 <link>https://guides.lib.ucr.edu/c.php?g=932732</link>
  <description>This feed provides easy access to USPTO Patent events.</description>
 <language>en-us</language>
- <lastBuildDate>Mon, 23 Oct 2023 11:26:04 PST</lastBuildDate>
+ <lastBuildDate>Mon, 30 Oct 2023 15:31:56 PST</lastBuildDate>
 <webManager>katherine.koziar@ucr.edu</webManager>
 
  
@@ -38,6 +38,14 @@
 	<guid>https://www.uspto.gov/about-us/events/one-day-patents-boot-camp-6</guid>
 	<pubDate>Wed, 08 Nov 2023 10:00:00 EST</pubDate>
 	<description> </description>
+</item>
+
+ 
+<item> <title>One-day patents boot camp</title>
+	<link>https://www.uspto.gov/about-us/events/one-day-patents-boot-camp-8</link>
+	<guid>https://www.uspto.gov/about-us/events/one-day-patents-boot-camp-8</guid>
+	<pubDate>Thu, 16 Nov 2023 09:00:00 EST</pubDate>
+	<description>Join the United States Patent and Trademark Office (USPTO) for a one-day patents boot camp on November 16 from 9 a.m. to 5 p.m. ET at Gateway Area Development District in Morehead, Kentucky. This in-person, single-day workshop is for entrepreneurs, small businesses, and inventors in communities with limited or no internet access, covering tools, techniques, and resources to understand the patent application process.</description>
 </item>
 
  
